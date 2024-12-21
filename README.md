@@ -1,5 +1,6 @@
 # billboard-music-epigenetics
-Applications of the Epigenetic effects of listening to Music within the evolving music world
+**Applications of the Epigenetic effects of listening to Music within the evolving music world**
+
 Overview
 A data analysis project examining the evolution of musical diversity in the Billboard Top 100 charts from 2015-2023, with a focus on the impact of social media platforms like TikTok on music consumption patterns. This project implements machine learning techniques to analyze song features and track the changing landscape of popular music.
 
