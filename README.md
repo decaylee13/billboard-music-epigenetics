@@ -3,27 +3,28 @@ Applications of the Epigenetic effects of listening to Music within the evolving
 Overview
 A data analysis project examining the evolution of musical diversity in the Billboard Top 100 charts from 2015-2023, with a focus on the impact of social media platforms like TikTok on music consumption patterns. This project implements machine learning techniques to analyze song features and track the changing landscape of popular music.
 
-Key Features:
-  Data Collection:
-  - Billboard Top 100 songs data from 2015-2023
-  - Song feature extraction using Spotify's Web Developer API
-  - TikTok sound analysis from random 15-minute sampling periods
-  
-  Technical Implementation
-  Machine Learning:
-  - Unsupervised K-means clustering to categorize songs
-  - Principal Component Analysis (PCA) for dimensionality reduction
-  - Feature analysis across multiple musical attributes
-  
-  Song Features Analyzed:
-  - Danceability
-  - Energy
-  - Speechiness
-  - Loudness
-  - Tempo
-  - Valence (emotional positivity)
-  - Instrumentalness
-  - Acousticness
+The Key Features include
+
+Data Collection:
+- Billboard Top 100 songs data from 2015-2023
+- Song feature extraction using Spotify's Web Developer API
+- TikTok sound analysis from random 15-minute sampling periods
+
+Technical Implementation
+Machine Learning:
+- Unsupervised K-means clustering to categorize songs
+- Principal Component Analysis (PCA) for dimensionality reduction
+- Feature analysis across multiple musical attributes
+
+Song Features Analyzed:
+- Danceability
+- Energy
+- Speechiness
+- Loudness
+- Tempo
+- Valence (emotional positivity)
+- Instrumentalness
+- Acousticness
 
 Results:
 The analysis revealed several key findings:
